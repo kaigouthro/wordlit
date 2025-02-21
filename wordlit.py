@@ -165,7 +165,6 @@ def plot_graph(
         data=[edge_trace, node_trace],
         layout=go.Layout(
             title="Knowledge Graph Visualization",
-            titlefont_size=20,
             showlegend=False,
             hovermode="closest",
             margin=dict(b=20, l=5, r=5, t=40),
