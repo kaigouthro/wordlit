@@ -128,8 +128,7 @@ def create_traces(
             colorbar=dict(
                 thickness=15,
                 title="Node Connections",
-                xanchor="left",
-                titleside="right",
+                xanchor="left"
             ),
             line_width=2,
         ),
